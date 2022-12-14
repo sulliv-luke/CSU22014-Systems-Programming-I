@@ -1,4 +1,4 @@
-# CSU22014-Systems-Programming-I
+# CSU22014 Systems-Programming I
 
 This repository contains my assignments/projects that I completed as a part of CSU22014 Systems Programming I.
 
